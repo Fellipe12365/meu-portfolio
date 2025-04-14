@@ -1,27 +1,29 @@
-# Portfólio de Segurança Cibernética
+# Portfólio de Fellipe Mendes
 
-Bem-vindo ao meu portfólio! Aqui você encontrará documentos, projetos e certificações que desenvolvi e adquiri ao longo da minha jornada na área de segurança cibernética.
+## Sobre mim
+
+Sou um profissional apaixonado por segurança cibernética, com certificação em CyberSec pela FIAP e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) no SENAC SP. Trabalho como Analista de Suporte N1 na Locaweb, onde lido com uma variedade de questões técnicas e ajudo a garantir a estabilidade e a segurança dos serviços da empresa.
 
 ## Objetivos
 
-Meu objetivo na área de segurança cibernética é aplicar meu conhecimento técnico para proteger sistemas e dados de possíveis ameaças. Com uma certificação em CyberSec pela FIAP e atualmente cursando Análise e Desenvolvimento de Sistemas no SENAC SP, busco expandir minhas habilidades para fornecer soluções eficazes de segurança.
+Meu principal objetivo é expandir meus conhecimentos na área de segurança cibernética, aplicando-os para proteger organizações e dados críticos. Tenho interesse em continuar aprendendo sobre gestão de riscos, auditoria de segurança, e implementação de soluções de segurança robustas.
 
-## Formação
+## Valores
 
-- **Certificação em CyberSegurança** - FIAP
-- **Cursando Análise e Desenvolvimento de Sistemas (ADS)** - SENAC SP
+- **Proteção das pessoas e organizações**: Acredito que a segurança cibernética é essencial para proteger dados pessoais e empresariais, além de garantir que as empresas possam operar de maneira eficiente e segura.
+- **Inovação contínua**: Estou comprometido com o aprendizado constante, especialmente com o avanço das tecnologias e das ameaças cibernéticas.
+- **Ética e transparência**: Valorizo a ética no trato com dados e informações, buscando sempre a transparência e integridade nas soluções de segurança.
 
-## Experiência Profissional
+## Contatos e Links
 
-- **Analista de Suporte N1** - Locaweb
-  - Suporte técnico para clientes de Hospedagem de Sites e Email Locaweb.
-  - Experiência em administração de servidores Linux e Windows, DNS, SSL, FTP, e configuração de software de e-mail.
+- [LinkedIn: Fellipe Mendes](https://www.linkedin.com/in/fellipe-mendes-60925025b)
+- [GitHub: Fellipe12365](https://github.com/Fellipe12365)
 
 ## Projetos
 
-Aqui você pode acompanhar o progresso de projetos que estou desenvolvendo na área de segurança cibernética. Estes projetos incluem atividades práticas e desafios que me ajudam a aprender e aplicar os conceitos de segurança.
+- Projeto 1: **[Nome do projeto]** - Descrição do projeto.
+- Projeto 2: **[Nome do projeto]** - Descrição do projeto.
 
-## Contato
+## Conclusão
 
-- **LinkedIn:** [Fellipe Mendes](https://www.linkedin.com/in/fellipe-mendes-60925025b)
-- **GitHub:** [Fellipe12365](https://github.com/Fellipe12365)
+Este portfólio representa minha jornada e minhas contribuições até agora na área de segurança cibernética. À medida que evoluo, continuarei a atualizar este repositório com novos projetos e aprendizados.
