@@ -8,6 +8,8 @@ Sou um profissional apaixonado por segurança cibernética, com certificação e
 
 Meu principal objetivo é expandir meus conhecimentos na área de segurança cibernética, aplicando-os para proteger organizações e dados críticos. Tenho interesse em continuar aprendendo sobre gestão de riscos, auditoria de segurança, e implementação de soluções de segurança robustas.
 
+Além disso, busco a conclusão dos **Google Certificates**, ampliando meu conhecimento e adquirindo novas habilidades em áreas chave de desenvolvimento e segurança cibernética.
+
 ## Valores
 
 - **Proteção das pessoas e organizações**: Acredito que a segurança cibernética é essencial para proteger dados pessoais e empresariais, além de garantir que as empresas possam operar de maneira eficiente e segura.
@@ -21,9 +23,8 @@ Meu principal objetivo é expandir meus conhecimentos na área de segurança cib
 
 ## Projetos
 
-- Projeto 1: **[Nome do projeto]** - Descrição do projeto.
-- Projeto 2: **[Nome do projeto]** - Descrição do projeto.
+- [Auditoria de Segurança - Botium Toys](https://github.com/Fellipe12365/meu-portfolio/tree/main/auditoria-seguranca)
 
 ## Conclusão
 
-Este portfólio representa minha jornada e minhas contribuições até agora na área de segurança cibernética. À medida que evoluo, continuarei a atualizar este repositório com novos projetos e aprendizados.
+Este portfólio representa minha jornada e minhas contribuições até agora na área de segurança cibernética, incluindo as certificações do Google e meus projetos práticos. À medida que evoluo, continuarei a atualizar este repositório com novos projetos e aprendizados.
