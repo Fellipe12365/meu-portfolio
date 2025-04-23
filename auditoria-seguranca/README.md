@@ -1,74 +1,25 @@
-# Auditoria de Segurança - Botium Toys
+# Portfólio de Fellipe Mendes
 
-## Escopo e Objetivos da Auditoria
+## Sobre mim
+Sou um profissional apaixonado por segurança cibernética, com certificação em CyberSec pela FIAP e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) no SENAC SP. Trabalho como Analista de Suporte N1 na Locaweb, onde lido com uma variedade de questões técnicas e ajudo a garantir a estabilidade e a segurança dos serviços da empresa.
 
-**Escopo:** A auditoria abrange todo o programa de segurança da Botium Toys, incluindo os ativos da empresa, como equipamentos de funcionários, rede interna e sistemas utilizados.
+## Objetivos
+Meu principal objetivo é expandir meus conhecimentos na área de segurança cibernética, aplicando-os para proteger organizações e dados críticos. Tenho interesse em continuar aprendendo sobre gestão de riscos, auditoria de segurança, e implementação de soluções de segurança robustas.
 
-**Objetivos:** O principal objetivo é avaliar os ativos atuais e completar a lista de verificação de controles e conformidade para determinar quais práticas de controle e conformidade precisam ser implementadas para melhorar a postura de segurança da Botium Toys.
+Além disso, busco a conclusão dos Google Certificates, ampliando meu conhecimento e adquirindo novas habilidades em áreas chave de desenvolvimento e segurança cibernética.
 
-## Ativos Gerenciados pelo Departamento de TI
+## Valores
+- **Proteção das pessoas e organizações**: Acredito que a segurança cibernética é essencial para proteger dados pessoais e empresariais, além de garantir que as empresas possam operar de maneira eficiente e segura.
+- **Inovação contínua**: Estou comprometido com o aprendizado constante, especialmente com o avanço das tecnologias e das ameaças cibernéticas.
+- **Ética e transparência**: Valorizo a ética no trato com dados e informações, buscando sempre a transparência e integridade nas soluções de segurança.
 
-- Equipamentos físicos de escritório e dispositivos usados pelos funcionários (desktops/laptops, smartphones, workstations remotas, etc.).
-- Produtos do ponto de venda, tanto na loja física quanto online, armazenados no depósito.
-- Gerenciamento de sistemas e serviços (contabilidade, telecomunicações, banco de dados, segurança, e-commerce, gerenciamento de inventário, etc.).
-- Acesso à Internet e rede interna.
-- Armazenamento de dados e retenção de informações.
-- Manutenção de sistemas legados que requerem monitoramento humano.
+## Contatos e Links
+- [LinkedIn: Fellipe Mendes](https://www.linkedin.com)
+- [GitHub: Fellipe12365](https://github.com/Fellipe12365)
 
-## Avaliação de Risco
+## Projetos
+- **[Auditoria de Segurança - Google Certificates | Botium Toys](https://github.com/Fellipe12365/meu-portfolio/blob/main/auditoria-seguranca/README.md)**
+- **[dns-records-explained](https://github.com/Fellipe12365/meu-portfolio/blob/main/dns-records-explained)**: Projeto que documenta de forma técnica e didática os apontamentos DNS (MX, CNAME, TXT) usados para configuração de e-mails.
 
-A avaliação revelou que o gerenciamento de ativos é inadequado, faltando controles essenciais e não conformidade com regulamentações tanto nos EUA quanto internacionalmente.
-
-**Pontuação de risco:** 8/10 (Risco elevado devido à falta de controles e não conformidade).
-
-**Comentários adicionais sobre o risco:**
-- Acesso irrestrito a dados internos, comprometendo a segurança de dados de clientes.
-- Falta de criptografia para informações de cartão de crédito.
-- Ausência de controle de acesso baseado no princípio de menor privilégio.
-- Não há planos de recuperação de desastres ou backups de dados críticos.
-- Conformidade com o GDPR, mas lacunas em outros controles de segurança.
-
-## Lista de Verificação de Controles
-
-### Controles de Segurança
-
-| Control                           | Sim | Não |
-|-----------------------------------|-----|-----|
-| Least Privilege                   | ✅  | ❌  |
-| Planos de Recuperação de Desastres| ❌  | ✅  |
-| Políticas de Senha                | ✅  | ❌  |
-| Políticas de Controle de Acesso   | ✅  | ❌  |
-| Antivírus                         | ✅  | ❌  |
-| Firewall                          | ✅  | ❌  |
-| Sistema de Detecção de Intrusão (IDS) | ❌  | ✅  |
-| Backups                           | ❌  | ✅  |
-| Criptografia                      | ❌  | ✅  |
-
-### Controles Físicos
-
-| Control                           | Sim | Não |
-|-----------------------------------|-----|-----|
-| Câmeras de Vigilância CCTV        | ✅  | ❌  |
-| Sistema de Detecção de Incêndio   | ✅  | ❌  |
-| Fechamento de Armários de Equipamento | ✅  | ❌  |
-
-## Conformidade com Melhores Práticas
-
-**PCI DSS:**
-- Os dados do cartão de crédito estão protegidos de acordo com as melhores práticas de segurança? | ❌
-- A Botium Toys segue as políticas de criptografia para transações de cartão de crédito? | ❌
-
-**GDPR:**
-- Os dados dos clientes da UE estão sendo mantidos de forma privada e segura? | ✅
-- Existe um plano de notificação para clientes da UE em caso de violação de dados? | ✅
-
-**SOC (Tipo 1 e Tipo 2):**
-- A empresa tem políticas estabelecidas de acesso a usuários e segurança de dados confidenciais? | ✅
-- A integridade dos dados é garantida? | ✅
-
-## Recomendações (Opcional)
-
-- **Implementar Criptografia:** Para proteger dados sensíveis, como informações de cartão de crédito, que ainda não estão sendo criptografados corretamente.
-- **Melhorar Políticas de Senha:** Aumentar os requisitos das políticas de senha para atender aos padrões modernos de segurança.
-- **Sistema de Detecção de Intrusão (IDS):** Implementar um IDS para detectar e prevenir tráfego malicioso na rede.
-- **Backup e Recuperação de Desastres:** Estabelecer uma estratégia robusta de backup e recuperação de dados.
+## Conclusão
+Este portfólio representa minha jornada e minhas contribuições até agora na área de segurança cibernética, incluindo as certificações do Google e meus projetos práticos. À medida que evoluo, continuarei a atualizar este repositório com novos projetos e aprendizados.
