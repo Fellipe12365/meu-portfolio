@@ -1,9 +1,6 @@
 ## **Para que seu serviço de e-mail funcione corretamente, é necessário configurar a Zona de DNS com os registros MX, CNAME e TXT. Mas você já se perguntou por que e para que servem esses apontamentos?**
 
 ## **Apontamento MX**
-
-![ChatGPT Image 23 de abr. de 2025, 12_11_09.png](attachment:3bfd8d51-dad6-45c3-a6d9-90bf36e20c83:ChatGPT_Image_23_de_abr._de_2025_12_11_09.png)
-
 Os registros **MX (Mail Exchanger)** são essenciais para o funcionamento do serviço de e-mail no domínio. Eles definem **quais servidores estão autorizados a receber mensagens** enviadas para os endereços do domínio — ou seja, são a porta de entrada dos e-mails.
 
 **Como funcionam?**  
