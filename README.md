@@ -25,6 +25,7 @@ Além disso, busco a conclusão dos **Google Certificates**, ampliando meu conhe
 
 - [Apontamentos DNS - MX, CNAME e TXT](https://github.com/Fellipe12365/meu-portfolio/blob/main/dns-explained/MX-CNAME-TXT.md)
 - [Auditoria de Segurança - Botium Toys](https://github.com/Fellipe12365/meu-portfolio/tree/main/auditoria-seguranca)
+- [Análise de Incidente DNS - DNS Inacessível](https://github.com/Fellipe12365/meu-portfolio/blob/main/analise-incidente-DNS/dns-inacessivel.md)
 
 ## Conclusão
 
