@@ -1,4 +1,4 @@
-# Portfólio de Fellipe Mendes
+# Portifólio de Fellipe Mendes
 
 ## Sobre mim
 Sou um profissional apaixonado por segurança cibernética, com certificação em CyberSec pela FIAP e atualmente cursando Análise e Desenvolvimento de Sistemas (ADS) no SENAC SP. Trabalho como Analista de Suporte N1 na Locaweb, onde lido com uma variedade de questões técnicas e ajudo a garantir a estabilidade e a segurança dos serviços da empresa.
